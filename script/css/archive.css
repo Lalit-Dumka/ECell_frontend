@@ -41,6 +41,7 @@ li h2 {
     color:  white;
     padding-left:   20px;
     border-radius: 5px;
+    text-transform: uppercase;
 }
 main li img {
     width: 440px;
